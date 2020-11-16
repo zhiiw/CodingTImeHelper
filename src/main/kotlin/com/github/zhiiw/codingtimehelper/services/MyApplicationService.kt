@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zhiiw.codingtimehelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zhiiw.codingtimehelper.MyBundle
 
 class MyApplicationService {
 
